@@ -12,7 +12,7 @@ font-size: 50px;
 }
 
 section {
-display: flex;
+              display: flex;
 }
 
 .half-width {
